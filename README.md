@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eldar</h1>
 <h3 align="center">A passionate developer from Russia</h3>
 
-- 🔭 I’m currently working on [My Degree and PokeBS project](https://www.linkedin.com/in/eldar-kanokov-47582a295/)
+- 🔭 I’m currently working on my degree and PokeBS project.
 
 - 🌱 I’m currently learning **C++, Laravel**
 
