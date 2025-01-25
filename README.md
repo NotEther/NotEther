@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **kanokeldar@gmail.com**
 
-- 📄 CV (Know about my experiences) [https://drive.google.com/file/d/1MxSticvNg4GIB6eBG8tBL2SWSk7zLnFC/view?usp=sharing](https://drive.google.com/file/d/1MxSticvNg4GIB6eBG8tBL2SWSk7zLnFC/view?usp=sharing)
+- 📄 [CV (Know about my experiences)](https://drive.google.com/file/d/1MxSticvNg4GIB6eBG8tBL2SWSk7zLnFC/view?usp=sharing)
 
 - ⚡ Fun fact **One Piece is the greatest piece of media ever created!**
 
